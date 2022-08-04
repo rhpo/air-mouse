@@ -7,6 +7,7 @@ A mouse control for PC's using a mobile device (IOS/Android).
 ```shell
 git clone https://github.com/rhpo/air-mouse/
 cd air-mouse
+npm install # Installs the Required NPM Packages
 ```
 
 
