@@ -1,0 +1,18 @@
+{
+  "name": "airmouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nut-tree/nut-js": "^2.1.1",
+    "colors": "^1.4.0",
+    "socket.io": "^4.5.1",
+    "ws": "^8.8.1"
+  }
+}
