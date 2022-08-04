@@ -17,4 +17,4 @@ npm install # Installs the Required NPM Packages
 
 
 
-> Written and maintained by @rhpo in NodeJS.
+> Written and maintained by [@rhpo](https://github.com/rhpo) ❤️.
