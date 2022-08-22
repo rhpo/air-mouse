@@ -1,4 +1,4 @@
-# air-mouse
+# AirMouse 🐁🖱️
 A mouse control for PC's using a mobile device (IOS/Android).
 
 # **Useful for old devices, for drawing purposes, and for school.**
